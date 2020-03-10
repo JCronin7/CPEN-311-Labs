@@ -1,0 +1,36 @@
+{C:/Users/jcron/OneDrive/Documents/University/Winter 2020 Semester/CPEN 311/Lab2/read_flash_tb.sv} {1 {vlog -work work -sv -stats=none {C:/Users/jcron/OneDrive/Documents/University/Winter 2020 Semester/CPEN 311/Lab2/read_flash_tb.sv}
+Model Technology ModelSim ALTERA vlog 10.3c Compiler 2014.09 Sep 20 2014
+-- Compiling module read_flash_tb
+
+Top level modules:
+	read_flash_tb
+
+} {} {}} {C:/Users/jcron/OneDrive/Documents/University/Winter 2020 Semester/CPEN 311/Lab2/template_de1soc/read_flash.sv} {1 {vlog -work work -sv -stats=none {C:/Users/jcron/OneDrive/Documents/University/Winter 2020 Semester/CPEN 311/Lab2/template_de1soc/read_flash.sv}
+Model Technology ModelSim ALTERA vlog 10.3c Compiler 2014.09 Sep 20 2014
+-- Compiling module read_flash
+
+Top level modules:
+	read_flash
+
+} {} {}} {C:/Users/jcron/OneDrive/Documents/University/Winter 2020 Semester/CPEN 311/Lab2/template_de1soc/flash_sim.sv} {1 {vlog -work work -sv -stats=none {C:/Users/jcron/OneDrive/Documents/University/Winter 2020 Semester/CPEN 311/Lab2/template_de1soc/flash_sim.sv}
+Model Technology ModelSim ALTERA vlog 10.3c Compiler 2014.09 Sep 20 2014
+-- Compiling module flash_sim
+
+Top level modules:
+	flash_sim
+
+} {} {}} {C:/Users/jcron/OneDrive/Documents/University/Winter 2020 Semester/CPEN 311/Lab2/template_de1soc/audio_control.sv} {1 {vlog -work work -sv -stats=none {C:/Users/jcron/OneDrive/Documents/University/Winter 2020 Semester/CPEN 311/Lab2/template_de1soc/audio_control.sv}
+Model Technology ModelSim ALTERA vlog 10.3c Compiler 2014.09 Sep 20 2014
+-- Compiling module audio_control
+
+Top level modules:
+	audio_control
+
+} {} {}} {C:/Users/jcron/OneDrive/Documents/University/Winter 2020 Semester/CPEN 311/Lab2/audio_control_tb.sv} {1 {vlog -work work -sv -stats=none {C:/Users/jcron/OneDrive/Documents/University/Winter 2020 Semester/CPEN 311/Lab2/audio_control_tb.sv}
+Model Technology ModelSim ALTERA vlog 10.3c Compiler 2014.09 Sep 20 2014
+-- Compiling module audio_control_tb
+
+Top level modules:
+	audio_control_tb
+
+} {} {}}

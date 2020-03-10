@@ -1,0 +1,213 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/altera/14.1
+vcounter
+Z0 !s110 1579846414
+!i10b 1
+!s100 VHG?RXUY9VbU>F[MU5i<J2
+IK:j0GP`LO5mkfkB[E^9CV0
+Z1 V`JN@9S9cnhjKRR_L]QIcM3
+Z2 dC:/Users/jcron/OneDrive/Documents/University/Winter 2020 Semester/CPEN 311/Lab1/lab1_template_de1soc
+Z3 w1579404657
+Z4 8C:\Users\jcron\OneDrive\Documents\University\Winter 2020 Semester\CPEN 311\Lab1\lab1_template_de1soc\frequency_divider.v
+Z5 FC:\Users\jcron\OneDrive\Documents\University\Winter 2020 Semester\CPEN 311\Lab1\lab1_template_de1soc\frequency_divider.v
+L0 24
+Z6 OV;L;10.3c;59
+r1
+!s85 0
+31
+Z7 !s108 1579846414.689000
+Z8 !s107 C:\Users\jcron\OneDrive\Documents\University\Winter 2020 Semester\CPEN 311\Lab1\lab1_template_de1soc\frequency_divider.v|
+Z9 !s90 -reportprogress|300|-work|work|-stats=none|C:\Users\jcron\OneDrive\Documents\University\Winter 2020 Semester\CPEN 311\Lab1\lab1_template_de1soc\frequency_divider.v|
+!i113 1
+Z10 o-work work
+vcounter1
+Z11 DXx6 sv_std 3 std 0 22 <EOTafDcUY:cQeO^ICn]m3
+R0
+!i10b 1
+!s100 R:Wj7]KTQ68noA[>dG4Gh1
+IIgV;V=F9ijdAU3`jJ6aD90
+R1
+Z12 !s105 bonus_sv_unit
+S1
+R2
+Z13 w1579846310
+Z14 8C:/Users/jcron/OneDrive/Documents/University/Winter 2020 Semester/CPEN 311/Lab1/lab1_template_de1soc/bonus.sv
+Z15 FC:/Users/jcron/OneDrive/Documents/University/Winter 2020 Semester/CPEN 311/Lab1/lab1_template_de1soc/bonus.sv
+L0 27
+R6
+r1
+!s85 0
+31
+Z16 !s108 1579846414.959000
+Z17 !s107 C:/Users/jcron/OneDrive/Documents/University/Winter 2020 Semester/CPEN 311/Lab1/lab1_template_de1soc/bonus.sv|
+Z18 !s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/jcron/OneDrive/Documents/University/Winter 2020 Semester/CPEN 311/Lab1/lab1_template_de1soc/bonus.sv|
+!i113 1
+Z19 o-work work -sv
+vFFr
+R11
+R0
+!i10b 1
+!s100 B9n80:aWY2;lafUAK1zAY3
+IF][M9kze9AZO7Dc<kNTT31
+R1
+Z20 !s105 problemSeven_top_sv_unit
+S1
+R2
+Z21 w1579803201
+Z22 8C:/Users/jcron/OneDrive/Documents/University/Winter 2020 Semester/CPEN 311/Homework1/problemSeven_top.sv
+Z23 FC:/Users/jcron/OneDrive/Documents/University/Winter 2020 Semester/CPEN 311/Homework1/problemSeven_top.sv
+L0 16
+R6
+r1
+!s85 0
+31
+Z24 !s108 1579846414.773000
+Z25 !s107 C:/Users/jcron/OneDrive/Documents/University/Winter 2020 Semester/CPEN 311/Homework1/problemSeven_top.sv|
+Z26 !s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/jcron/OneDrive/Documents/University/Winter 2020 Semester/CPEN 311/Homework1/problemSeven_top.sv|
+!i113 1
+R19
+n@f@fr
+vfrequency_divider
+R0
+!i10b 1
+!s100 NiEWcZL?K5YdLg[hOai?Y3
+I;@D_lX[Id1Hi@g:PG;o8K2
+R1
+R2
+R3
+R4
+R5
+L0 1
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+vfrequency_divider_tb
+R0
+!i10b 1
+!s100 l]kzHl5W:fz;R_N5z;;9e0
+IeFQ;PPKl=K13T8iPbSP0;1
+R1
+R2
+w1579480682
+8C:\Users\jcron\OneDrive\Documents\University\Winter 2020 Semester\CPEN 311\Lab1\lab1_template_de1soc\frequency_divider_tb.v
+FC:\Users\jcron\OneDrive\Documents\University\Winter 2020 Semester\CPEN 311\Lab1\lab1_template_de1soc\frequency_divider_tb.v
+L0 1
+R6
+r1
+!s85 0
+31
+!s108 1579846414.606000
+!s107 C:\Users\jcron\OneDrive\Documents\University\Winter 2020 Semester\CPEN 311\Lab1\lab1_template_de1soc\frequency_divider_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\Users\jcron\OneDrive\Documents\University\Winter 2020 Semester\CPEN 311\Lab1\lab1_template_de1soc\frequency_divider_tb.v|
+!i113 1
+R10
+vproblemSeven_top
+R11
+R0
+!i10b 1
+!s100 1`g3<Fd:Pd5?bmKKO=W=;2
+Ikg:P2Ck_Kci:C>SngE0kj1
+R1
+R20
+S1
+R2
+R21
+R22
+R23
+L0 1
+R6
+r1
+!s85 0
+31
+R24
+R25
+R26
+!i113 1
+R19
+nproblem@seven_top
+vproblemSeven_top_tb
+R11
+R0
+!i10b 1
+!s100 FPoXW_A@EHVI5OHF>dZZF0
+I53XH5NHHU[N2E6[>RMOZe1
+R1
+!s105 problemSeven_top_tb_sv_unit
+S1
+R2
+w1579800756
+8C:/Users/jcron/OneDrive/Documents/University/Winter 2020 Semester/CPEN 311/Homework1/problemSeven_top_tb.sv
+FC:/Users/jcron/OneDrive/Documents/University/Winter 2020 Semester/CPEN 311/Homework1/problemSeven_top_tb.sv
+L0 1
+R6
+r1
+!s85 0
+31
+!s108 1579846414.860000
+!s107 C:/Users/jcron/OneDrive/Documents/University/Winter 2020 Semester/CPEN 311/Homework1/problemSeven_top_tb.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/jcron/OneDrive/Documents/University/Winter 2020 Semester/CPEN 311/Homework1/problemSeven_top_tb.sv|
+!i113 1
+R19
+nproblem@seven_top_tb
+vRNG
+R11
+R0
+!i10b 1
+!s100 Q_BH`N]egF2i>nV3nnIFn1
+I[D3N1^@aTfhD[^^9SMi>z1
+R1
+R12
+S1
+R2
+R13
+R14
+R15
+L0 1
+R6
+r1
+!s85 0
+31
+R16
+R17
+R18
+!i113 1
+R19
+n@r@n@g
+vRNG_tb
+R11
+!s110 1579846415
+!i10b 1
+!s100 11i=aT3URWVRM_gWnhRMN2
+Iam:1TS5IenYM2GmAYl5[;2
+R1
+!s105 bonus_tb_sv_unit
+S1
+R2
+w1579845813
+8C:/Users/jcron/OneDrive/Documents/University/Winter 2020 Semester/CPEN 311/Lab1/lab1_template_de1soc/bonus_tb.sv
+FC:/Users/jcron/OneDrive/Documents/University/Winter 2020 Semester/CPEN 311/Lab1/lab1_template_de1soc/bonus_tb.sv
+L0 1
+R6
+r1
+!s85 0
+31
+!s108 1579846415.048000
+!s107 C:/Users/jcron/OneDrive/Documents/University/Winter 2020 Semester/CPEN 311/Lab1/lab1_template_de1soc/bonus_tb.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/jcron/OneDrive/Documents/University/Winter 2020 Semester/CPEN 311/Lab1/lab1_template_de1soc/bonus_tb.sv|
+!i113 1
+R19
+n@r@n@g_tb

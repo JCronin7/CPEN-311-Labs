@@ -1,0 +1,37 @@
+{C:/Users/jcron/OneDrive/Documents/University/Winter 2020 Semester/CPEN 311/Lab4_Bonus/template_de1soc/shuffle.sv} {1 {vlog -work work -sv -stats=none {C:/Users/jcron/OneDrive/Documents/University/Winter 2020 Semester/CPEN 311/Lab4_Bonus/template_de1soc/shuffle.sv}
+Model Technology ModelSim ALTERA vlog 10.3c Compiler 2014.09 Sep 20 2014
+-- Compiling module shuffle
+-- Compiling module moduloOnSecretKey
+
+Top level modules:
+	shuffle
+
+} {} {}} {C:/Users/jcron/OneDrive/Documents/University/Winter 2020 Semester/CPEN 311/Lab4/template_de1soc/s_memory_simulator_tb.sv} {1 {vlog -work work -sv -stats=none {C:/Users/jcron/OneDrive/Documents/University/Winter 2020 Semester/CPEN 311/Lab4/template_de1soc/s_memory_simulator_tb.sv}
+Model Technology ModelSim ALTERA vlog 10.3c Compiler 2014.09 Sep 20 2014
+-- Compiling module s_memory_simulatior_tb
+
+Top level modules:
+	s_memory_simulatior_tb
+
+} {} {}} {C:/Users/jcron/OneDrive/Documents/University/Winter 2020 Semester/CPEN 311/Lab4_Bonus/template_de1soc/shuffle_tb.sv} {1 {vlog -work work -sv -stats=none {C:\Users\jcron\OneDrive\Documents\University\Winter 2020 Semester\CPEN 311\Lab4_Bonus\template_de1soc\shuffle_tb.sv}
+Model Technology ModelSim ALTERA vlog 10.3c Compiler 2014.09 Sep 20 2014
+-- Compiling module shuffle_tb
+
+Top level modules:
+	shuffle_tb
+
+} {} {}} {C:/Users/jcron/OneDrive/Documents/University/Winter 2020 Semester/CPEN 311/Lab4/template_de1soc/s_memory_simulator.sv} {1 {vlog -work work -sv -stats=none {C:\Users\jcron\OneDrive\Documents\University\Winter 2020 Semester\CPEN 311\Lab4\template_de1soc\s_memory_simulator.sv}
+Model Technology ModelSim ALTERA vlog 10.3c Compiler 2014.09 Sep 20 2014
+-- Compiling module s_memory_simulatior
+
+Top level modules:
+	s_memory_simulatior
+
+} {} {}} {C:/Users/jcron/OneDrive/Documents/University/Winter 2020 Semester/CPEN 311/Lab4_Bonus/template_de1soc/Write_to_mem_tb.sv} {1 {vlog -work work -sv -stats=none {C:/Users/jcron/OneDrive/Documents/University/Winter 2020 Semester/CPEN 311/Lab4_Bonus/template_de1soc/Write_to_mem_tb.sv}
+Model Technology ModelSim ALTERA vlog 10.3c Compiler 2014.09 Sep 20 2014
+-- Compiling module writeToMem_tb
+
+Top level modules:
+	writeToMem_tb
+
+} {} {}}

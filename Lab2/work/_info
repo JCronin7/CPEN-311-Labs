@@ -1,0 +1,125 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/jcron/OneDrive/Documents/University/Winter 2020 Semester/CPEN 311/Homework2
+vaudio_control
+Z0 DXx6 sv_std 3 std 0 22 <EOTafDcUY:cQeO^ICn]m3
+Z1 !s110 1581588837
+!i10b 1
+!s100 g?R`YoZh]h]HY4G3j`Q@80
+I<gPdDNRA9P8oFlK_J[jn?2
+Z2 V`JN@9S9cnhjKRR_L]QIcM3
+!s105 audio_control_sv_unit
+S1
+Z3 dC:/Users/jcron/OneDrive/Documents/University/Winter 2020 Semester/CPEN 311/Lab2
+w1581588331
+8C:/Users/jcron/OneDrive/Documents/University/Winter 2020 Semester/CPEN 311/Lab2/template_de1soc/audio_control.sv
+FC:/Users/jcron/OneDrive/Documents/University/Winter 2020 Semester/CPEN 311/Lab2/template_de1soc/audio_control.sv
+L0 5
+Z4 OV;L;10.3c;59
+r1
+!s85 0
+31
+!s108 1581588837.826000
+!s107 C:/Users/jcron/OneDrive/Documents/University/Winter 2020 Semester/CPEN 311/Lab2/template_de1soc/audio_control.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/jcron/OneDrive/Documents/University/Winter 2020 Semester/CPEN 311/Lab2/template_de1soc/audio_control.sv|
+!i113 1
+Z5 o-work work -sv
+vaudio_control_tb
+R0
+Z6 !s110 1581588838
+!i10b 1
+!s100 @IW8:>[KYAD;U`EOjni<:0
+IkXOV5gWEhM?g2PaKelHmY2
+R2
+!s105 audio_control_tb_sv_unit
+S1
+R3
+w1581588834
+8C:/Users/jcron/OneDrive/Documents/University/Winter 2020 Semester/CPEN 311/Lab2/audio_control_tb.sv
+FC:/Users/jcron/OneDrive/Documents/University/Winter 2020 Semester/CPEN 311/Lab2/audio_control_tb.sv
+L0 1
+R4
+r1
+!s85 0
+31
+!s108 1581588838.122000
+!s107 C:/Users/jcron/OneDrive/Documents/University/Winter 2020 Semester/CPEN 311/Lab2/audio_control_tb.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/jcron/OneDrive/Documents/University/Winter 2020 Semester/CPEN 311/Lab2/audio_control_tb.sv|
+!i113 1
+R5
+vflash_sim
+R0
+R1
+!i10b 1
+!s100 ENA3T<46ek>@cON`fBFPT0
+IBTjnJm:8?LkFSfZPbBH6;0
+R2
+!s105 flash_sim_sv_unit
+S1
+R3
+w1581536797
+8C:/Users/jcron/OneDrive/Documents/University/Winter 2020 Semester/CPEN 311/Lab2/template_de1soc/flash_sim.sv
+FC:/Users/jcron/OneDrive/Documents/University/Winter 2020 Semester/CPEN 311/Lab2/template_de1soc/flash_sim.sv
+L0 1
+R4
+r1
+!s85 0
+31
+!s108 1581588837.732000
+!s107 C:/Users/jcron/OneDrive/Documents/University/Winter 2020 Semester/CPEN 311/Lab2/template_de1soc/flash_sim.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/jcron/OneDrive/Documents/University/Winter 2020 Semester/CPEN 311/Lab2/template_de1soc/flash_sim.sv|
+!i113 1
+R5
+vread_flash
+R0
+R1
+!i10b 1
+!s100 Y<zViTnJR3A0hEOEnkJ<c3
+IEhUndCXP2]cQZFCCR`>>D1
+R2
+!s105 read_flash_sv_unit
+S1
+R3
+w1581560582
+8C:/Users/jcron/OneDrive/Documents/University/Winter 2020 Semester/CPEN 311/Lab2/template_de1soc/read_flash.sv
+FC:/Users/jcron/OneDrive/Documents/University/Winter 2020 Semester/CPEN 311/Lab2/template_de1soc/read_flash.sv
+L0 5
+R4
+r1
+!s85 0
+31
+!s108 1581588837.904000
+!s107 C:/Users/jcron/OneDrive/Documents/University/Winter 2020 Semester/CPEN 311/Lab2/template_de1soc/read_flash.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/jcron/OneDrive/Documents/University/Winter 2020 Semester/CPEN 311/Lab2/template_de1soc/read_flash.sv|
+!i113 1
+R5
+vread_flash_tb
+R0
+R6
+!i10b 1
+!s100 >kml=3L2TR1371c^1PL<<1
+IDVmGA>ajR^B9nInBh]Wk@1
+R2
+!s105 read_flash_tb_sv_unit
+S1
+R3
+w1581536701
+8C:/Users/jcron/OneDrive/Documents/University/Winter 2020 Semester/CPEN 311/Lab2/read_flash_tb.sv
+FC:/Users/jcron/OneDrive/Documents/University/Winter 2020 Semester/CPEN 311/Lab2/read_flash_tb.sv
+L0 1
+R4
+r1
+!s85 0
+31
+!s108 1581588838.013000
+!s107 C:/Users/jcron/OneDrive/Documents/University/Winter 2020 Semester/CPEN 311/Lab2/read_flash_tb.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/jcron/OneDrive/Documents/University/Winter 2020 Semester/CPEN 311/Lab2/read_flash_tb.sv|
+!i113 1
+R5

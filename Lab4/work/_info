@@ -1,0 +1,293 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/altera/14.1
+vff
+Z0 DXx6 sv_std 3 std 0 22 <EOTafDcUY:cQeO^ICn]m3
+!s110 1583812513
+!i10b 1
+!s100 68Oh41:B>1348JJE6hXAe2
+Ii`H^Uj0HRR:68:`=R2hKi0
+Z1 V`JN@9S9cnhjKRR_L]QIcM3
+Z2 !s105 s_memory_simulator_sv_unit
+S1
+Z3 dC:/Users/jcron/OneDrive/Documents/University/Winter 2020 Semester/CPEN 311/Lab4
+w1583812511
+8C:/Users/jcron/OneDrive/Documents/University/Winter 2020 Semester/CPEN 311/Lab4/template_de1soc/s_memory_simulator.sv
+FC:/Users/jcron/OneDrive/Documents/University/Winter 2020 Semester/CPEN 311/Lab4/template_de1soc/s_memory_simulator.sv
+L0 33
+Z4 OV;L;10.3c;59
+r1
+!s85 0
+31
+!s108 1583812513.604000
+!s107 C:/Users/jcron/OneDrive/Documents/University/Winter 2020 Semester/CPEN 311/Lab4/template_de1soc/s_memory_simulator.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/jcron/OneDrive/Documents/University/Winter 2020 Semester/CPEN 311/Lab4/template_de1soc/s_memory_simulator.sv|
+!i113 1
+Z5 o-work work -sv
+vmasterSM
+R0
+Z6 !s110 1583734804
+!i10b 1
+!s100 kbWc<IL>7U7SZmNOIZo=W2
+Idf59N52`dcXIH<?[;PGN51
+R1
+!s105 master_SM_sv_unit
+S1
+R3
+w1583734376
+8C:\Users\jcron\OneDrive\Documents\University\Winter 2020 Semester\CPEN 311\Lab4_modular_design\template_de1soc\master_SM.sv
+FC:\Users\jcron\OneDrive\Documents\University\Winter 2020 Semester\CPEN 311\Lab4_modular_design\template_de1soc\master_SM.sv
+L0 1
+R4
+r1
+!s85 0
+31
+!s108 1583734804.640000
+!s107 C:\Users\jcron\OneDrive\Documents\University\Winter 2020 Semester\CPEN 311\Lab4_modular_design\template_de1soc\master_SM.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:\Users\jcron\OneDrive\Documents\University\Winter 2020 Semester\CPEN 311\Lab4_modular_design\template_de1soc\master_SM.sv|
+!i113 1
+R5
+nmaster@s@m
+vmasterSM_tb
+R0
+R6
+!i10b 1
+!s100 Uf=5:LPRnHKlmYAWBkFVW3
+I;bOm1zPlC]gA=`@KGVVkP3
+R1
+!s105 master_SM_tb_sv_unit
+S1
+R3
+w1583734801
+8C:\Users\jcron\OneDrive\Documents\University\Winter 2020 Semester\CPEN 311\Lab4\master_SM_tb.sv
+FC:\Users\jcron\OneDrive\Documents\University\Winter 2020 Semester\CPEN 311\Lab4\master_SM_tb.sv
+L0 1
+R4
+r1
+!s85 0
+31
+!s108 1583734804.828000
+!s107 C:\Users\jcron\OneDrive\Documents\University\Winter 2020 Semester\CPEN 311\Lab4\master_SM_tb.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:\Users\jcron\OneDrive\Documents\University\Winter 2020 Semester\CPEN 311\Lab4\master_SM_tb.sv|
+!i113 1
+R5
+nmaster@s@m_tb
+vmoduloOnSecretKey
+R0
+Z7 !s110 1583829858
+!i10b 1
+!s100 @ABUI2;O@^Qn:?A=N_X`W1
+I^>5Ll]ESK@njaQn4_d98K0
+R1
+Z8 !s105 shuffle_sv_unit
+S1
+R3
+Z9 w1583792264
+Z10 8C:/Users/jcron/OneDrive/Documents/University/Winter 2020 Semester/CPEN 311/Lab4_Bonus/template_de1soc/shuffle.sv
+Z11 FC:/Users/jcron/OneDrive/Documents/University/Winter 2020 Semester/CPEN 311/Lab4_Bonus/template_de1soc/shuffle.sv
+L0 116
+R4
+r1
+!s85 0
+31
+Z12 !s108 1583829858.568000
+Z13 !s107 C:/Users/jcron/OneDrive/Documents/University/Winter 2020 Semester/CPEN 311/Lab4_Bonus/template_de1soc/shuffle.sv|
+Z14 !s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/jcron/OneDrive/Documents/University/Winter 2020 Semester/CPEN 311/Lab4_Bonus/template_de1soc/shuffle.sv|
+!i113 1
+R5
+nmodulo@on@secret@key
+vmoduloOnSecretKey_tb
+R0
+!s110 1583635640
+!i10b 1
+!s100 @g]hJ2[5226NF@nY3Ia[F2
+IobzTFoA]VlU0AD<QF;cmf1
+R1
+!s105 mod_tb_sv_unit
+S1
+R3
+w1583635450
+8C:/Users/jcron/OneDrive/Documents/University/Winter 2020 Semester/CPEN 311/Lab4/mod_tb.sv
+FC:/Users/jcron/OneDrive/Documents/University/Winter 2020 Semester/CPEN 311/Lab4/mod_tb.sv
+L0 1
+R4
+r1
+!s85 0
+31
+!s108 1583635640.287000
+!s107 C:/Users/jcron/OneDrive/Documents/University/Winter 2020 Semester/CPEN 311/Lab4/mod_tb.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/jcron/OneDrive/Documents/University/Winter 2020 Semester/CPEN 311/Lab4/mod_tb.sv|
+!i113 1
+R5
+nmodulo@on@secret@key_tb
+vreadWriteMem
+R0
+R6
+!i10b 1
+!s100 gohZ^Z98V6>76l3Nn3mL92
+IffC9NlO=M;S5oa7TA0[T?3
+R1
+!s105 mem_interface_sv_unit
+S1
+R3
+w1583732890
+8C:/Users/jcron/OneDrive/Documents/University/Winter 2020 Semester/CPEN 311/Lab4_modular_design/template_de1soc/mem_interface.sv
+FC:/Users/jcron/OneDrive/Documents/University/Winter 2020 Semester/CPEN 311/Lab4_modular_design/template_de1soc/mem_interface.sv
+L0 1
+R4
+r1
+!s85 0
+31
+!s108 1583734804.734000
+!s107 C:/Users/jcron/OneDrive/Documents/University/Winter 2020 Semester/CPEN 311/Lab4_modular_design/template_de1soc/mem_interface.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/jcron/OneDrive/Documents/University/Winter 2020 Semester/CPEN 311/Lab4_modular_design/template_de1soc/mem_interface.sv|
+!i113 1
+R5
+nread@write@mem
+vs_memory_simulatior
+R0
+R7
+!i10b 1
+!s100 j;Q6Inn7@g`U`kocl?J_a0
+IchNba5ZIG>n0@bW5Jim@P2
+R1
+R2
+S1
+R3
+w1583829853
+8C:\Users\jcron\OneDrive\Documents\University\Winter 2020 Semester\CPEN 311\Lab4\template_de1soc\s_memory_simulator.sv
+FC:\Users\jcron\OneDrive\Documents\University\Winter 2020 Semester\CPEN 311\Lab4\template_de1soc\s_memory_simulator.sv
+L0 1
+R4
+r1
+!s85 0
+31
+!s108 1583829858.303000
+!s107 C:\Users\jcron\OneDrive\Documents\University\Winter 2020 Semester\CPEN 311\Lab4\template_de1soc\s_memory_simulator.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:\Users\jcron\OneDrive\Documents\University\Winter 2020 Semester\CPEN 311\Lab4\template_de1soc\s_memory_simulator.sv|
+!i113 1
+R5
+vs_memory_simulatior_tb
+R0
+R7
+!i10b 1
+!s100 3`ggLZ_@l1^mSQJWMKgDd0
+IX?n_lF1<b1_B>JmA2H^DP3
+R1
+!s105 s_memory_simulator_tb_sv_unit
+S1
+R3
+w1583813035
+8C:/Users/jcron/OneDrive/Documents/University/Winter 2020 Semester/CPEN 311/Lab4/template_de1soc/s_memory_simulator_tb.sv
+FC:/Users/jcron/OneDrive/Documents/University/Winter 2020 Semester/CPEN 311/Lab4/template_de1soc/s_memory_simulator_tb.sv
+L0 1
+R4
+r1
+!s85 0
+31
+!s108 1583829858.214000
+!s107 C:/Users/jcron/OneDrive/Documents/University/Winter 2020 Semester/CPEN 311/Lab4/template_de1soc/s_memory_simulator_tb.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/jcron/OneDrive/Documents/University/Winter 2020 Semester/CPEN 311/Lab4/template_de1soc/s_memory_simulator_tb.sv|
+!i113 1
+R5
+vshuffle
+R0
+R7
+!i10b 1
+!s100 EVT8IFjBR@UM]mdW?P]ek1
+II@I?:G87N89FS<z5iNnRQ3
+R1
+R8
+S1
+R3
+R9
+R10
+R11
+L0 1
+R4
+r1
+!s85 0
+31
+R12
+R13
+R14
+!i113 1
+R5
+vshuffle_tb
+R0
+R7
+!i10b 1
+!s100 YTHfcGNQ0z`_X9:>UgD;80
+I1LakOGFoSD=_adHDfC9EJ1
+R1
+!s105 shuffle_tb_sv_unit
+S1
+R3
+w1583829495
+8C:\Users\jcron\OneDrive\Documents\University\Winter 2020 Semester\CPEN 311\Lab4_Bonus\template_de1soc\shuffle_tb.sv
+FC:\Users\jcron\OneDrive\Documents\University\Winter 2020 Semester\CPEN 311\Lab4_Bonus\template_de1soc\shuffle_tb.sv
+L0 1
+R4
+r1
+!s85 0
+31
+!s108 1583829858.662000
+!s107 C:\Users\jcron\OneDrive\Documents\University\Winter 2020 Semester\CPEN 311\Lab4_Bonus\template_de1soc\shuffle_tb.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:\Users\jcron\OneDrive\Documents\University\Winter 2020 Semester\CPEN 311\Lab4_Bonus\template_de1soc\shuffle_tb.sv|
+!i113 1
+R5
+vwriteToMem
+R0
+R7
+!i10b 1
+!s100 z8^7TiES^;CiVMEAFF3>C0
+IDH4Jao0AJ3R:8h:C8;Ueo2
+R1
+!s105 Write_to_mem_sv_unit
+S1
+R3
+w1583791942
+8C:/Users/jcron/OneDrive/Documents/University/Winter 2020 Semester/CPEN 311/Lab4_Bonus/template_de1soc/Write_to_mem.sv
+FC:/Users/jcron/OneDrive/Documents/University/Winter 2020 Semester/CPEN 311/Lab4_Bonus/template_de1soc/Write_to_mem.sv
+L0 1
+R4
+r1
+!s85 0
+31
+!s108 1583829858.396000
+!s107 C:/Users/jcron/OneDrive/Documents/University/Winter 2020 Semester/CPEN 311/Lab4_Bonus/template_de1soc/Write_to_mem.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/jcron/OneDrive/Documents/University/Winter 2020 Semester/CPEN 311/Lab4_Bonus/template_de1soc/Write_to_mem.sv|
+!i113 1
+R5
+nwrite@to@mem
+vwriteToMem_tb
+R0
+R7
+!i10b 1
+!s100 a]1L8RRZJV]`@kYnJJ_<C3
+IAMCdY`Okc^;TfCIa@]VRS0
+R1
+!s105 Write_to_mem_tb_sv_unit
+S1
+R3
+w1583829447
+8C:/Users/jcron/OneDrive/Documents/University/Winter 2020 Semester/CPEN 311/Lab4_Bonus/template_de1soc/Write_to_mem_tb.sv
+FC:/Users/jcron/OneDrive/Documents/University/Winter 2020 Semester/CPEN 311/Lab4_Bonus/template_de1soc/Write_to_mem_tb.sv
+L0 1
+R4
+r1
+!s85 0
+31
+!s108 1583829858.490000
+!s107 C:/Users/jcron/OneDrive/Documents/University/Winter 2020 Semester/CPEN 311/Lab4_Bonus/template_de1soc/Write_to_mem_tb.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/jcron/OneDrive/Documents/University/Winter 2020 Semester/CPEN 311/Lab4_Bonus/template_de1soc/Write_to_mem_tb.sv|
+!i113 1
+R5
+nwrite@to@mem_tb

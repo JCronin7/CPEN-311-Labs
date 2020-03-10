@@ -1,0 +1,141 @@
+<?xml version="1.0"?>
+<!--Created by Liquid XML 2008 (www.liquid-technologies.com) for Altera-->
+<ProgramExecution xmlns:xs="http://www.w3.org/2001/XMLSchema-instance">
+	<QuartusExecution>
+		<AddressBits>64</AddressBits>
+		<ApplicationError>
+		<Bits>64</Bits>
+		<CommandLine>quartus</CommandLine>
+		<ErrorMessage>Access Violation at 0X000000005A2DFF66</ErrorMessage>
+		<Line>0</Line>
+		<Platform>windows</Platform>
+		<SourceFile>unknown</SourceFile>
+		<StackTrace>
+	 0x5a2dff65: QtGui4 + 0x6ff65 (??1QWidget@@UEAA@XZ + 0x4a5)
+	 0x5a2e08f5: QtGui4 + 0x708f5 (??1QWidgetPrivate@@UEAA@XZ + 0x535)
+	 0x5a05e512: QtCore4 + 0x14e512 (?deleteChildren@QObjectPrivate@@QEAAXXZ + 0xa2)
+	 0x5a2e0267: QtGui4 + 0x70267 (??1QWidget@@UEAA@XZ + 0x7a7)
+	0x7ffce06fa959: SYS_QUI + 0x3a959 (??1QUI_MDI_SUB_WND@@UEAA@XZ + 0xb9)
+	 0x5a05fd14: QtCore4 + 0x14fd14 (?event@QObject@@UEAA_NPEAVQEvent@@@Z + 0xa4)
+	 0x5a2e5de2: QtGui4 + 0x75de2 (?event@QWidget@@MEAA_NPEAVQEvent@@@Z + 0xd42)
+	 0x5a29c765: QtGui4 + 0x2c765 (?notify_helper@QApplicationPrivate@@QEAA_NPEAVQObject@@PEAVQEvent@@@Z + 0xf5)
+	 0x5a29c3ff: QtGui4 + 0x2c3ff (?notify@QApplication@@UEAA_NPEAVQObject@@PEAVQEvent@@@Z + 0x17bf)
+	 0x5a04aaab: QtCore4 + 0x13aaab (?notifyInternal@QCoreApplication@@AEAA_NPEAVQObject@@PEAVQEvent@@@Z + 0x7b)
+	 0x5a04c772: QtCore4 + 0x13c772 (?sendPostedEvents@QCoreApplicationPrivate@@SAXPEAVQObject@@HPEAVQThreadData@@@Z + 0x2b2)
+	 0x59f458e8: QtCore4 + 0x358e8 (?d_func@QEventDispatcherWin32@@AEBAPEBVQEventDispatcherWin32Private@@XZ + 0x268)
+	 0x59f46f20: QtCore4 + 0x36f20 (?terminate@QThread@@QEAAXXZ + 0xa0)
+	0x7ffcb0558e50: sld_redq + 0x8e50
+	0x7ffcb055a073: sld_redq + 0xa073
+	0x7ffcb0558cfe: sld_redq + 0x8cfe
+	0x7ffcb0559d53: sld_redq + 0x9d53
+	0x7ffcb055906e: sld_redq + 0x906e
+	0x7ffcb055a2c3: sld_redq + 0xa2c3
+	 0x5a05e512: QtCore4 + 0x14e512 (?deleteChildren@QObjectPrivate@@QEAAXXZ + 0xa2)
+	 0x5a2e0267: QtGui4 + 0x70267 (??1QWidget@@UEAA@XZ + 0x7a7)
+	0x7ffcb0559a94: sld_redq + 0x9a94
+	 0x5a05e512: QtCore4 + 0x14e512 (?deleteChildren@QObjectPrivate@@QEAAXXZ + 0xa2)
+	 0x5a2e0267: QtGui4 + 0x70267 (??1QWidget@@UEAA@XZ + 0x7a7)
+	0x7ffcb055a037: sld_redq + 0xa037
+	 0x5a05e512: QtCore4 + 0x14e512 (?deleteChildren@QObjectPrivate@@QEAAXXZ + 0xa2)
+	 0x5a2e0267: QtGui4 + 0x70267 (??1QWidget@@UEAA@XZ + 0x7a7)
+	0x7ffcb0559db7: sld_redq + 0x9db7
+	 0x5a05fd14: QtCore4 + 0x14fd14 (?event@QObject@@UEAA_NPEAVQEvent@@@Z + 0xa4)
+	 0x5a2e5de2: QtGui4 + 0x75de2 (?event@QWidget@@MEAA_NPEAVQEvent@@@Z + 0xd42)
+	 0x5a690f10: QtGui4 + 0x420f10 (?event@QMainWindow@@MEAA_NPEAVQEvent@@@Z + 0x280)
+	 0x5a29c765: QtGui4 + 0x2c765 (?notify_helper@QApplicationPrivate@@QEAA_NPEAVQObject@@PEAVQEvent@@@Z + 0xf5)
+	 0x5a29c3ff: QtGui4 + 0x2c3ff (?notify@QApplication@@UEAA_NPEAVQObject@@PEAVQEvent@@@Z + 0x17bf)
+	 0x5a04aaab: QtCore4 + 0x13aaab (?notifyInternal@QCoreApplication@@AEAA_NPEAVQObject@@PEAVQEvent@@@Z + 0x7b)
+	 0x5a04c772: QtCore4 + 0x13c772 (?sendPostedEvents@QCoreApplicationPrivate@@SAXPEAVQObject@@HPEAVQThreadData@@@Z + 0x2b2)
+	 0x5a079758: QtCore4 + 0x169758 (?processEvents@QEventDispatcherWin32@@UEAA_NV?$QFlags@W4ProcessEventsFlag@QEventLoop@@@@@Z + 0xbf8)
+	0x7ffd16b65b6c: USER32 + 0x15b6c (CallWindowProcW + 0x3bc)
+	0x7ffd16b65561: USER32 + 0x15561 (DispatchMessageW + 0x1f1)
+	 0x5a078f42: QtCore4 + 0x168f42 (?processEvents@QEventDispatcherWin32@@UEAA_NV?$QFlags@W4ProcessEventsFlag@QEventLoop@@@@@Z + 0x3e2)
+	 0x5a30f864: QtGui4 + 0x9f864 (?openPopup@QApplicationPrivate@@QEAAXPEAVQWidget@@@Z + 0x204)
+	 0x5a046a7b: QtCore4 + 0x136a7b (?exec@QEventLoop@@QEAAHV?$QFlags@W4ProcessEventsFlag@QEventLoop@@@@@Z + 0x22b)
+	 0x5a049cbf: QtCore4 + 0x139cbf (?exec@QCoreApplication@@SAHXZ + 0xdf)
+	0x7ff691f6197b: quartus + 0x197b
+	0x7ffcf481cad8: CCL_MSG + 0xcad8 (?msg_initialize_out_of_memory_handler@@YAXXZ + 0x378)
+	0x7ffcf481e20c: CCL_MSG + 0xe20c (?msg_set_stack_size@@YAXH@Z + 0x7c)
+	0x7ffcf4745aa0: ccl_mem + 0x5aa0 (?mem_gen_get_project_output_directory@@YAPEBDXZ + 0x64)
+	0x7ffcf481c721: CCL_MSG + 0xc721 (?msg_exe_main@@YAHHPEAPEBDP6AHH0@Z@Z + 0xa1)
+	0x7ff691f62507: quartus + 0x2507
+	0x7ff691f61e74: quartus + 0x1e74
+	0x7ffd15207bd3: KERNEL32 + 0x17bd3 (BaseThreadInitThunk + 0x13)
+	0x7ffd171aced0: ntdll + 0x6ced0 (RtlUserThreadStart + 0x20)
+		</StackTrace>
+		<Subsystem>unknown</Subsystem>
+	</ApplicationError>
+	<Compilation>
+			<CompileID>0</CompileID>
+			<DeviceFamily/>
+			<IncrementalCompilation/>
+			<TopLevelEntityName/>
+		</Compilation>
+		<DateInvoked>2020/03/09 15:01:46</DateInvoked>
+		<ElapsedTime>6388</ElapsedTime>
+		<IP>206.12.65.100</IP>
+		<IsInternal>false</IsInternal>
+		<IsQt>true</IsQt>
+		<License>
+			<Edition>Full Version</Edition>
+			<LicenseHostID>005056856b27</LicenseHostID>
+		</License>
+		<Machine>
+			<CPUCountLogical>8</CPUCountLogical>
+			<CPUCountPhysical>1</CPUCountPhysical>
+			<CPUSpeed>2808</CPUSpeed>
+			<Hostname>LAPTOP-4VGSQ70S</Hostname>
+			<NIC>
+				<Address>9829a642d2ea</Address>
+			</NIC>
+			<NIC>
+				<Address>e82a44913836</Address>
+			</NIC>
+			<NIC>
+				<Address>e82a44913835</Address>
+			</NIC>
+			<NIC>
+				<Address>fa2a44913835</Address>
+			</NIC>
+			<NIC>
+				<Address>ea2a44913835</Address>
+			</NIC>
+			<OS>Windows 7</OS>
+			<OSAddressBits>64</OSAddressBits>
+			<OSVersion>6.2</OSVersion>
+			<Platform>windows</Platform>
+			<ScreenResolution>unknown</ScreenResolution>
+			<TotalPhysicalRAM>16267</TotalPhysicalRAM>
+			<TotalVirtualRAM>0</TotalVirtualRAM>
+		</Machine>
+		<Name>quartus</Name>
+		<PeakMemoryUsed>0</PeakMemoryUsed>
+		<ProjectRevision>
+			<ProjectName/>
+			<Revision/>
+		</ProjectRevision>
+		<QuartusInstallation>
+			<InstallationID>167304650478314.15783763791937</InstallationID>
+			<Version>
+				<Build>186</Build>
+				<BuildSite>SJ</BuildSite>
+				<BuildSuffix/>
+				<Edition>Full Version</Edition>
+				<ServicePack>0</ServicePack>
+				<VersionNumber>14.1</VersionNumber>
+			</Version>
+		</QuartusInstallation>
+		<QuartusUser>
+			<AlteraUserName/>
+			<FAEContactName/>
+			<TalkbackStatus>
+				<DateSet/>
+				<TalkbackOn>true</TalkbackOn>
+			</TalkbackStatus>
+			<UserID>167304650478314.157837641419692</UserID>
+			<UserName>jcron</UserName>
+		</QuartusUser>
+	</QuartusExecution>
+	<SchemaVersion>schema_2013-01-18</SchemaVersion>
+</ProgramExecution>
+
