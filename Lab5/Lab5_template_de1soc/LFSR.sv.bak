@@ -1,0 +1,33 @@
+module LFSR #(parameter N = 5)
+				(	input logic clk, 
+					inout logic [N - 1:0] lfsr
+					); 
+	genvar i;				
+	generate  
+		for (i = N - 1; i > 0; i--) begin : generate_shift_array 
+			ff lfsr_ff(	.clk(clk), 
+							.in(lfsr[i]), 
+							.out(lfsr[i - 1])
+							);
+		end 
+	endgenerate
+
+	logic feedback; 
+	assign feedback = lfsr[0] ^ lfsr[2]; 
+	
+	ff lfsr_end (	.clk(clk), 
+						.in(feedback), 
+						.out(lfsr[4])
+						);
+						
+endmodule 
+
+module ff (	input logic clk,
+				input logic in, 
+				output logic out
+				); 
+
+	always_ff @(posedge clk) 
+		out <= in; 
+
+endmodule 

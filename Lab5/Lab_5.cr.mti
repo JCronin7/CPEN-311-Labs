@@ -1,0 +1,40 @@
+C:/Users/jcron/OneDrive/Documents/University/Lab5/doublesync_no_reset_tb.sv {1 {vlog -work work -sv -stats=none C:/Users/jcron/OneDrive/Documents/University/Lab5/doublesync_no_reset_tb.sv
+Model Technology ModelSim ALTERA vlog 10.3c Compiler 2014.09 Sep 20 2014
+-- Compiling module doublesync_no_reset_tb
+
+Top level modules:
+	doublesync_no_reset_tb
+
+} {} {}} C:/Users/jcron/OneDrive/Documents/University/Lab5/Lab5_template_de1soc/doublesync_no_reset.v {1 {vlog -work work -stats=none C:/Users/jcron/OneDrive/Documents/University/Lab5/Lab5_template_de1soc/doublesync_no_reset.v
+Model Technology ModelSim ALTERA vlog 10.3c Compiler 2014.09 Sep 20 2014
+-- Compiling module doublesync_no_reset
+
+Top level modules:
+	doublesync_no_reset
+
+} {} {}} C:/Users/jcron/OneDrive/Documents/University/Lab5/Lab5_template_de1soc/LFSR.sv {1 {vlog -work work -sv -stats=none C:/Users/jcron/OneDrive/Documents/University/Lab5/Lab5_template_de1soc/LFSR.sv
+Model Technology ModelSim ALTERA vlog 10.3c Compiler 2014.09 Sep 20 2014
+-- Compiling module LFSR
+-- Compiling module ff
+
+Top level modules:
+	LFSR
+
+} {} {}} C:/Users/jcron/OneDrive/Documents/University/Lab5/Lab5_template_de1soc/sincos_lut.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/jcron/OneDrive/Documents/University/Lab5/Lab5_template_de1soc/sincos_lut.vhd
+Model Technology ModelSim ALTERA vcom 10.3c Compiler 2014.09 Sep 20 2014
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity sincos_lut
+-- Compiling architecture rtl of sincos_lut
+
+} {} {}} C:/Users/jcron/OneDrive/Documents/University/Lab5/Lab5_template_de1soc/LFSR_tb.sv {1 {vlog -work work -sv -stats=none C:/Users/jcron/OneDrive/Documents/University/Lab5/Lab5_template_de1soc/LFSR_tb.sv
+Model Technology ModelSim ALTERA vlog 10.3c Compiler 2014.09 Sep 20 2014
+-- Compiling module LFSR_tb
+
+Top level modules:
+	LFSR_tb
+
+} {} {}}

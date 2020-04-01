@@ -1,0 +1,299 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/jcron/OneDrive/Documents/University/Winter 2020 Semester/ELEC 391/ELEC-391-Project/ELEC391_project_000_controls/HDL
+vDDS
+Z0 DXx6 sv_std 3 std 0 22 <EOTafDcUY:cQeO^ICn]m3
+Z1 !s110 1585691806
+!i10b 1
+!s100 n[mgNYcJ>MR63i327KEeH0
+INKR@koFohP:I=>BT8lnno1
+Z2 V`JN@9S9cnhjKRR_L]QIcM3
+!s105 DDS_sv_unit
+S1
+Z3 dC:/Users/jcron/OneDrive/Documents/University/Lab5
+w1584995441
+8C:/Users/jcron/OneDrive/Documents/University/Lab5/Lab5_template_de1soc/DDS.sv
+FC:/Users/jcron/OneDrive/Documents/University/Lab5/Lab5_template_de1soc/DDS.sv
+L0 1
+Z4 OV;L;10.3c;59
+r1
+!s85 0
+31
+!s108 1585691806.602000
+!s107 C:/Users/jcron/OneDrive/Documents/University/Lab5/Lab5_template_de1soc/DDS.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/jcron/OneDrive/Documents/University/Lab5/Lab5_template_de1soc/DDS.sv|
+!i113 1
+Z5 o-work work -sv
+n@d@d@s
+vDDS_tb
+R0
+R1
+!i10b 1
+!s100 0jb_iaVd:[QaTcf_=01M53
+I`hY@QJfChF@o:mF91dWEz1
+R2
+!s105 DDS_tb_sv_unit
+S1
+R3
+w1585272508
+8C:/Users/jcron/OneDrive/Documents/University/Lab5/Lab5_template_de1soc/DDS_tb.sv
+FC:/Users/jcron/OneDrive/Documents/University/Lab5/Lab5_template_de1soc/DDS_tb.sv
+L0 1
+R4
+r1
+!s85 0
+31
+!s108 1585691806.520000
+!s107 C:/Users/jcron/OneDrive/Documents/University/Lab5/Lab5_template_de1soc/DDS_tb.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/jcron/OneDrive/Documents/University/Lab5/Lab5_template_de1soc/DDS_tb.sv|
+!i113 1
+R5
+n@d@d@s_tb
+vdoublesync_no_reset
+Z6 !s110 1585694415
+!i10b 1
+!s100 o[?znFQK@^PMbemDDHN=J2
+I8k4nTaWS]Jj4FR:I]Dn<O2
+R2
+R3
+w1584228122
+8C:/Users/jcron/OneDrive/Documents/University/Lab5/Lab5_template_de1soc/doublesync_no_reset.v
+FC:/Users/jcron/OneDrive/Documents/University/Lab5/Lab5_template_de1soc/doublesync_no_reset.v
+L0 1
+R4
+r1
+!s85 0
+31
+!s108 1585694415.671000
+!s107 C:/Users/jcron/OneDrive/Documents/University/Lab5/Lab5_template_de1soc/doublesync_no_reset.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/jcron/OneDrive/Documents/University/Lab5/Lab5_template_de1soc/doublesync_no_reset.v|
+!i113 1
+o-work work
+vdoublesync_no_reset_tb
+R0
+R6
+!i10b 1
+!s100 z=I?Hd^Hbd0>FcdPdaYZ:0
+IEccjgl0mCdZD8AnGAFn8G2
+R2
+!s105 doublesync_no_reset_tb_sv_unit
+S1
+R3
+w1585694388
+8C:/Users/jcron/OneDrive/Documents/University/Lab5/doublesync_no_reset_tb.sv
+FC:/Users/jcron/OneDrive/Documents/University/Lab5/doublesync_no_reset_tb.sv
+L0 1
+R4
+r1
+!s85 0
+31
+!s108 1585694415.800000
+!s107 C:/Users/jcron/OneDrive/Documents/University/Lab5/doublesync_no_reset_tb.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/jcron/OneDrive/Documents/University/Lab5/doublesync_no_reset_tb.sv|
+!i113 1
+R5
+vff
+R0
+Z7 !s110 1585694414
+!i10b 1
+!s100 8WDNJ43:Afbn4HAoDJZ<b0
+I<I[o57Y<mMUeHQ?fI9ene3
+R2
+Z8 !s105 LFSR_sv_unit
+S1
+R3
+Z9 w1584926290
+Z10 8C:/Users/jcron/OneDrive/Documents/University/Lab5/Lab5_template_de1soc/LFSR.sv
+Z11 FC:/Users/jcron/OneDrive/Documents/University/Lab5/Lab5_template_de1soc/LFSR.sv
+L0 45
+R4
+r1
+!s85 0
+31
+Z12 !s108 1585694414.822000
+Z13 !s107 C:/Users/jcron/OneDrive/Documents/University/Lab5/Lab5_template_de1soc/LFSR.sv|
+Z14 !s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/jcron/OneDrive/Documents/University/Lab5/Lab5_template_de1soc/LFSR.sv|
+!i113 1
+R5
+vLFSR
+R0
+R7
+!i10b 1
+!s100 F>zm:bhCSM@7[]<E6G6hD3
+If4fY5Z49Pj]D=JUU]8g<a1
+R2
+R8
+S1
+R3
+R9
+R10
+R11
+L0 1
+R4
+r1
+!s85 0
+31
+R12
+R13
+R14
+!i113 1
+R5
+n@l@f@s@r
+vLFSR_tb
+R0
+R7
+!i10b 1
+!s100 <A5^f3;ojJcUNOzgLO7Q>1
+IDo]Qm:E@Zh4<g6o_PkUSn0
+R2
+!s105 LFSR_tb_sv_unit
+S1
+R3
+w1584926441
+8C:/Users/jcron/OneDrive/Documents/University/Lab5/Lab5_template_de1soc/LFSR_tb.sv
+FC:/Users/jcron/OneDrive/Documents/University/Lab5/Lab5_template_de1soc/LFSR_tb.sv
+L0 1
+R4
+r1
+!s85 0
+31
+!s108 1585694414.930000
+!s107 C:/Users/jcron/OneDrive/Documents/University/Lab5/Lab5_template_de1soc/LFSR_tb.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/jcron/OneDrive/Documents/University/Lab5/Lab5_template_de1soc/LFSR_tb.sv|
+!i113 1
+R5
+n@l@f@s@r_tb
+Esincos_lut
+Z15 w1584228123
+Z16 DPx4 ieee 15 std_logic_arith 0 22 [G314=:2zXJ`VORJe1J@Z1
+Z17 DPx4 ieee 18 std_logic_unsigned 0 22 ;eZjO2D4ZDz<]0>8AL<ne1
+Z18 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z19 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+R3
+Z20 8C:/Users/jcron/OneDrive/Documents/University/Lab5/Lab5_template_de1soc/sincos_lut.vhd
+Z21 FC:/Users/jcron/OneDrive/Documents/University/Lab5/Lab5_template_de1soc/sincos_lut.vhd
+l0
+L25
+VX15J`P?Qb`4ma^1hIn]=`0
+!s100 7iWn1leeEa[=VGaM;5>8;2
+Z22 OV;C;10.3c;59
+32
+R6
+!i10b 1
+Z23 !s108 1585694415.024000
+Z24 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/jcron/OneDrive/Documents/University/Lab5/Lab5_template_de1soc/sincos_lut.vhd|
+Z25 !s107 C:/Users/jcron/OneDrive/Documents/University/Lab5/Lab5_template_de1soc/sincos_lut.vhd|
+!i113 1
+Z26 o-work work -2002 -explicit
+Z27 tExplicit 1
+Artl
+R16
+R17
+R18
+R19
+DEx4 work 10 sincos_lut 0 22 X15J`P?Qb`4ma^1hIn]=`0
+l1080
+L40
+VQdPPaZeRm;V@o[3URiPdP2
+!s100 5PS@B:PNXg`9HEY7Mn21@2
+R22
+32
+R6
+!i10b 1
+R23
+R24
+R25
+!i113 1
+R26
+R27
+Ewaveform_gen
+R15
+R16
+R18
+R19
+R3
+Z28 8C:/Users/jcron/OneDrive/Documents/University/Lab5/Lab5_template_de1soc/waveform_gen.vhd
+Z29 FC:/Users/jcron/OneDrive/Documents/University/Lab5/Lab5_template_de1soc/waveform_gen.vhd
+l0
+L25
+V6g>7_nmdaCXm[:b[:hUcd1
+!s100 O9<>HBaTeeZdZYXNFZ;ln1
+R22
+32
+Z30 !s110 1585694391
+!i10b 1
+Z31 !s108 1585694391.543000
+Z32 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/jcron/OneDrive/Documents/University/Lab5/Lab5_template_de1soc/waveform_gen.vhd|
+Z33 !s107 C:/Users/jcron/OneDrive/Documents/University/Lab5/Lab5_template_de1soc/waveform_gen.vhd|
+!i113 1
+R26
+R27
+Artl
+R16
+R18
+R19
+DEx4 work 12 waveform_gen 0 22 6g>7_nmdaCXm[:b[:hUcd1
+l69
+L48
+VGlmWn99iTdA]Ee?[f]hW60
+!s100 bkd4_zF_Ql1MhU_RQhGRZ3
+R22
+32
+R30
+!i10b 1
+R31
+R32
+R33
+!i113 1
+R26
+R27
+Ewaveform_gen_bench
+Z34 w1585693295
+R16
+Z35 DPx4 ieee 16 std_logic_textio 0 22 V5TSK`;aJKC<l]CEg1>mz1
+R19
+R18
+R3
+Z36 8C:\Users\jcron\OneDrive\Documents\University\Lab5\WAVE_GEN_tb.vhd
+Z37 FC:\Users\jcron\OneDrive\Documents\University\Lab5\WAVE_GEN_tb.vhd
+l0
+L28
+V[YHW;SXjWfV6Z0dI:T`0L1
+!s100 cRoG2b^TEhgG][NhcIN1C1
+R22
+32
+R30
+!i10b 1
+Z38 !s108 1585694391.005000
+Z39 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:\Users\jcron\OneDrive\Documents\University\Lab5\WAVE_GEN_tb.vhd|
+Z40 !s107 C:\Users\jcron\OneDrive\Documents\University\Lab5\WAVE_GEN_tb.vhd|
+!i113 1
+R26
+R27
+Abehav
+R16
+R35
+R19
+R18
+DEx4 work 18 waveform_gen_bench 0 22 [YHW;SXjWfV6Z0dI:T`0L1
+l77
+L33
+VSWT^=Yenego[`6ZlhW>Il2
+!s100 HSkVB:H45Z<C3zXAXCo^61
+R22
+32
+R30
+!i10b 1
+R38
+R39
+R40
+!i113 1
+R26
+R27
