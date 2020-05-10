@@ -1,0 +1,48 @@
+module audio_intensity(	input logic clk, 
+								input logic reset, 
+								input logic [7:0] audio_data, 
+								output logic [7:0] intensity
+								); 
+
+logic [1:0] 	state; 
+
+logic [7:0]		prev_sample,
+					increment; 
+
+logic [15:0] 	sum; 
+
+parameter 		CHECK = 2'b00, 
+					INC	= 2'b01, 
+					PRINT = 2'b10; 
+					
+always_ff @(posedge clk or posedge reset) begin 
+	if (reset)	begin	
+						state <= CHECK; 
+						sum 	<= 16'b0; 
+					end 
+	else 
+	case (state)
+		CHECK:	if (audio_data != prev_sample) begin 
+						prev_sample	<= audio_data; 
+						increment += 1'b1; 
+						state	<= INC; 
+					end 
+					else 
+						state <= CHECK; 
+		INC:		begin 
+						sum += audio_data;
+						if (increment == 8'b0)
+							state <= PRINT; 
+						else 
+							state <= CHECK; 
+						
+		PRINT: 	begin 	
+						intensity <= {<<{sum[15:8]}}; 
+						sum <= 16'b0; 
+						state <= CHECK; 
+					end 
+	default	state <= CHECK; 
+	endcase
+end  
+								
+endmodule 

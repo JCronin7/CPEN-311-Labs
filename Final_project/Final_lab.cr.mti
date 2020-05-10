@@ -1,0 +1,22 @@
+C:/Users/jcron/OneDrive/Documents/University/Winter2020Semester/CPEN311/Final_project/adapted_lab2/read_flash.sv {1 {vlog -work work -sv -stats=none {C:\Users\jcron\OneDrive\Documents\University\Winter2020Semester\CPEN311\Final_project\adapted_lab2\read_flash.sv}
+Model Technology ModelSim ALTERA vlog 10.3c Compiler 2014.09 Sep 20 2014
+-- Compiling module read_flash
+
+Top level modules:
+	read_flash
+
+} {} {}} C:/Users/jcron/OneDrive/Documents/University/Winter2020Semester/CPEN311/Final_project/adapted_lab2/s_memory_simulator.sv {1 {vlog -work work -sv -stats=none C:/Users/jcron/OneDrive/Documents/University/Winter2020Semester/CPEN311/Final_project/adapted_lab2/s_memory_simulator.sv
+Model Technology ModelSim ALTERA vlog 10.3c Compiler 2014.09 Sep 20 2014
+-- Compiling module s_memory_simulatior
+
+Top level modules:
+	s_memory_simulatior
+
+} {} {}} C:/Users/jcron/OneDrive/Documents/University/Winter2020Semester/CPEN311/Final_project/read_flash_tb.sv {1 {vlog -work work -sv -stats=none C:/Users/jcron/OneDrive/Documents/University/Winter2020Semester/CPEN311/Final_project/read_flash_tb.sv
+Model Technology ModelSim ALTERA vlog 10.3c Compiler 2014.09 Sep 20 2014
+-- Compiling module read_flash_tb
+
+Top level modules:
+	read_flash_tb
+
+} {} {}}
