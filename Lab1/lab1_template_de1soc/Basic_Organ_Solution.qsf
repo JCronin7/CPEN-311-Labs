@@ -41,7 +41,7 @@
 # ========================
 set_global_assignment -name ORIGINAL_QUARTUS_VERSION 9.1
 set_global_assignment -name PROJECT_CREATION_TIME_DATE "14:02:28 JANUARY 27,2010"
-set_global_assignment -name LAST_QUARTUS_VERSION 14.1.0
+set_global_assignment -name LAST_QUARTUS_VERSION "20.1.1 Lite Edition"
 set_global_assignment -name FLOW_ENABLE_RTL_VIEWER OFF
 set_global_assignment -name FLOW_ENABLE_IO_ASSIGNMENT_ANALYSIS ON
 
@@ -1625,5 +1625,8 @@ set_global_assignment -name SYSTEMVERILOG_FILE Basic_Organ_Solution.sv
 set_global_assignment -name SYSTEMVERILOG_FILE frequency_divider.sv
 set_global_assignment -name SYSTEMVERILOG_FILE LED_bounce.sv
 set_global_assignment -name SYSTEMVERILOG_FILE LED_bounce_tb.sv
+set_global_assignment -name SLD_NODE_PARAMETER_ASSIGNMENT "SLD_TRIGGER_PIPELINE=0" -section_id auto_signaltap_0
+set_global_assignment -name SLD_NODE_PARAMETER_ASSIGNMENT "SLD_RAM_PIPELINE=0" -section_id auto_signaltap_0
+set_global_assignment -name SLD_NODE_PARAMETER_ASSIGNMENT "SLD_COUNTER_PIPELINE=0" -section_id auto_signaltap_0
 set_instance_assignment -name PARTITION_HIERARCHY root_partition -to | -section_id Top
 set_global_assignment -name SLD_FILE db/lcd_scope_auto_stripped.stp

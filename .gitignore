@@ -12,9 +12,9 @@
 
 # ignore Quartus II generated folders
 *_sim
-db
+*/db
 greybox_tmp
-incremental_db
+*/incremental_db
 simulation
 testbench
 timing
