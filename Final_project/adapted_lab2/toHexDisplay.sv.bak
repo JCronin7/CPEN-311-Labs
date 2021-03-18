@@ -1,4 +1,0 @@
-module #(parameter N = 32) toHexDisplay();  
-	input logic [N - 1:0] number_in; 
-	output logic diplay0; 
-endmodule 

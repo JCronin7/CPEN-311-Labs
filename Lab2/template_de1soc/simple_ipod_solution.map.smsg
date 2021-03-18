@@ -1,2 +1,0 @@
-Warning (10268): Verilog HDL information at read_flash.sv(22): always construct contains both blocking and non-blocking assignments
-Warning (10268): Verilog HDL information at audio_control.sv(16): always construct contains both blocking and non-blocking assignments
