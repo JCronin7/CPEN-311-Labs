@@ -95,7 +95,14 @@
 	set_global_assignment -name QXP_FILE export/async_trap_and_reset_gen_1_pulse.qxp
 	set_global_assignment -name SYSTEMVERILOG_FILE hdl/LED_bounce.sv
 	set_global_assignment -name SYSTEMVERILOG_FILE hdl/frequency_divider.sv
+	set_global_assignment -name SYSTEMVERILOG_FILE hdl/ascii.sv
+	set_global_assignment -name SYSTEMVERILOG_FILE hdl/display_freq_info.sv
 	set_global_assignment -name SYSTEMVERILOG_FILE hdl/Basic_Organ_Solution.sv
+	set_global_assignment -name VERILOG_FILE hdl/Generate_Arbitrary_Divided_Clk32.v
+	set_global_assignment -name VERILOG_FILE hdl/LCD_Scope_Encapsulated_pacoblaze_wrapper.v
+	set_global_assignment -name VERILOG_FILE hdl/doublesync.v
+	set_global_assignment -name VERILOG_FILE hdl/scope_capture.v
+	set_global_assignment -name VERILOG_FILE hdl/widereg.v
 	set_global_assignment -name SIGNALTAP_FILE lcd_scope.stp
 	set_global_assignment -name SDC_FILE timing_constraints.sdc
 	set_global_assignment -name SLD_FILE db/lcd_scope_auto_stripped.stp

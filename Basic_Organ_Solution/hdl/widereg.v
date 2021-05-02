@@ -1,15 +1,15 @@
-module widereg(indata,outdata,inclk);
+module widereg
+(
+    input [width-1:0] indata,
+    output reg [width-1:0] outdata,
+    input inclk
+);
 
-parameter width = 8;
-input [width-1:0] indata;
-output [width-1:0] outdata;
-input inclk;
+    parameter width = 8;
 
-reg [width-1:0] outdata;
-
-always @ (posedge inclk)
-begin
-	 outdata <= indata;
-end
+    always @ (posedge inclk)
+    begin
+        outdata <= indata;
+    end
 
 endmodule

@@ -42,7 +42,9 @@ timing
 *.sof
 *.sopc_builder
 *.summary
-# *.tcl
+*.qpf
+*.qsf
+*.sld
 *.txt # Explicitly add any text files used
 *~
 *example*
